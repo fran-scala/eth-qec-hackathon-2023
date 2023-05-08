@@ -36,7 +36,7 @@ The repository also contains the original .zip file of the challenge and the cor
 ## Getting Started
 To get started with this repository, simply clone it to your local machine using the following command:
 
-git clone https://github.com/fran-scala/C-NOTpolitecnico.git
+git clone https://github.com/fran-scala/eth-qec-hackathon-2023
 
 Once you have cloned the repository, you can navigate to the relevant folder to access the Python code.
 

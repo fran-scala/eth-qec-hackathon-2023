@@ -1,7 +1,7 @@
 # IQM-Challenge
 
 ## C-NOTpolitecnico
-This repository contains all the materials for the 2023 ETH Zurich Quantum Hackathon and IQM-Challenge about exploting symmetries in quantum machine learning.
+This repository contains all the materials for the 2023 ETH Zurich Quantum Hackathon and IQM-Challenge about exploting symmetries in quantum machine learning. The team members are Chiara Ballotta, Davide Cugini, Francesco Ghisoni, Francesco Scala.
 
 ## Folders
 ### Tic-tac-toe
